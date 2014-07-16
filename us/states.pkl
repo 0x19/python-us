@@ -1599,7 +1599,7 @@ Nsg11
 VCA11
 p512
 sg13
-VSK\u000a
+VSK
 p513
 sg15
 I00
